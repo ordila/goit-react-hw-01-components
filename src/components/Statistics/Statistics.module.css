@@ -1,0 +1,20 @@
+.title {
+  text-align: center;
+}
+.statList {
+  padding-left: 0;
+  display: flex;
+  justify-content: center;
+}
+.item {
+  width: 50px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.percentage {
+  font-size: 20px;
+  font-weight: bold;
+}
